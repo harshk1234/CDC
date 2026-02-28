@@ -43,4 +43,7 @@ GO
 DELETE FROM Employee
 WHERE EmployeeID = 2;
 GO
+
+
+
 <img width="591" height="371" alt="image" src="https://github.com/user-attachments/assets/601f5ae0-5d56-462b-8bed-e46163d4fa89" />
